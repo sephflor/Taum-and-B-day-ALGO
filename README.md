@@ -1,1 +1,1 @@
-# Taum-and-B-day-ALGO
+# Taum-and-B-day-ALGO.This solution calculates the minimum cost to buy birthday gifts by comparing three strategies: buying each color directly, converting black gifts from white, or converting white gifts from black, then returns the cheapest option.
